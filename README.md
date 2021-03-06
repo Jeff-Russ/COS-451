@@ -1,10 +1,10 @@
-# CS486 - Artificial Intelligence
+# COS-451 - Artificial Intelligence
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/usma-eecs/cs486/master?urlpath=lab)
 
 This repository uses submodules, to clone use:
 
 ```bash
-$ git clone --recurse-submodules https://github.com/usma-eecs/cs486.git 
+$ git clone --recurse-submodules https://github.com/Jeff-Russ/COS-451.git
 ```
 
 If you forget to do that (or are reading this too late) you can fix it by running the following commands from the repo's root directory:
